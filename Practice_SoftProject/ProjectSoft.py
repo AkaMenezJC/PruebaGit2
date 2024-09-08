@@ -87,7 +87,7 @@ def button_env():
         pass
 #Evento de boton en la ventana y comando a desencadenar
 Button_Send= Button (root,
-                     text="Enviar",
+                     text="Send", #Prueba Branch Develop
                      command= button_env,
                      background= "darkgoldenrod",
                     )
