@@ -43,7 +43,7 @@ Fondo.grid (row= 5,
 
 #Etiquetas, usuario y contraseña. (Salida texto y entrada de teclado)
 User= Label(root,
-            text="Usuario",
+            text="User",
             border= 10,
             )
 User.grid(row= 0, column= 0)
