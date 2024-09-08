@@ -57,7 +57,7 @@ UserEntry.bind("<Button-1>",
 
 #Etiqueta y string contraseña
 Password= Label(root,
-                text="Contraseña")
+                text="Password") #Prueba repositorio en github con gitkraken
 Password.grid(row= 2, column= 0)
 PasswordEntry= Entry(root,
                      background= "wheat1",)
